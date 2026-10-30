@@ -1,4 +1,3 @@
-<img width="945" height="411" alt="image" src="https://github.com/user-attachments/assets/bee764c4-413e-49c7-b7f1-92973cf3aec5" /># Cost-Effective Treatment of Wastewater
 
 ## Project Overview
 This project focuses on researching and developing affordable, sustainable wastewater treatment solutions for residential societies, small industries, hotels, and other establishments.
